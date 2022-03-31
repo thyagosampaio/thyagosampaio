@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on Unreal Engine
-- 🌱 I’m currently learning React Native, C++ and Unreal Engine
-- 👯 I’m looking to collaborate on Mobile Projects
+- 🔭 I’m currently working on Security Information (ISO27001, tryhackme, NSE4)
+- 🌱 I’m currently learning Terraform and Fortigate 7.0
+- 👯 I’m looking to collaborate on DEVOPS PROJECTS
 - 📫 How to reach me: tecnologia@thyagosampaio.com.br
  <div>
   <a href="https://github.com/thyagosampaio">
